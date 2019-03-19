@@ -97,7 +97,7 @@ footer a {
 
 footer a:hover {
 	background: rgb(29,162,216);
-	border: rgb(29,162,216);
+	border: 3px solid rgb(29,162,216);
 	padding: 16px 20px;
 	color: white;
 }
